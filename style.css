@@ -1785,3 +1785,9 @@ footer {
 /* 
   Form
 */
+@media(max-width: 800px) {
+    .check {
+      width: 50px;
+      height: 50px;
+    }
+}
